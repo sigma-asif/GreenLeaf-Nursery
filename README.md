@@ -7,6 +7,25 @@ A modern, full-stack e-commerce platform for plant lovers. Built with React, Typ
 ![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
 
+## 📸 Screenshots
+
+### Landing Page
+![Landing Page](screenshots/landing%20page1.png)
+![Landing Page](screenshots/landing%20page2.png)
+
+### Shop Page
+![Shop Page](screenshots/shop.png)
+
+### Plant Details
+![Plant Details](screenshots/plant%20details.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/Admin%20dashboard.png)
+
+### Plant Management
+![Plant Management](screenshots/management1.png)
+![Plant Management](screenshots/management2.png)
+
 ## 📋 Table of Contents
 
 - [Features](#features)
@@ -15,9 +34,7 @@ A modern, full-stack e-commerce platform for plant lovers. Built with React, Typ
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Running the Application](#running-the-application)
-- [Usage Guide](#usage-guide)
-- [Admin Panel](#admin-panel)
-- [Contributing](#contributing)
+- [Support](#support)
 - [License](#license)
 
 ## ✨ Features
@@ -155,7 +172,7 @@ npm run preview
 
 For issues or questions:
 - Open an issue on GitHub
-- Contact: [realrahmanasif@gmail.com]
+- Contact: realrahmanasif@gmail.com
 
 ## 📄 License
 
@@ -167,3 +184,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - GitHub: [@sigma-asif](https://github.com/sigma-asif)
 
 ---
+
+Made with 💚 by the GreenLeaf Nursery Team
