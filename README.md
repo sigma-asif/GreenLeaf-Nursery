@@ -10,17 +10,17 @@ A modern, full-stack e-commerce platform for plant lovers. Built with React, Typ
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](screenshots/landing%20page1.png)
-![Landing Page](screenshots/landing%20page2.png)
+![Landing Page](screenshots/landing-page1.png)
+![Landing Page](screenshots/landing-page2.png)
 
 ### Shop Page
 ![Shop Page](screenshots/shop.png)
 
 ### Plant Details
-![Plant Details](screenshots/plant%20details.png)
+![Plant Details](screenshots/plant-details.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/Admin%20dashboard.png)
+![Admin Dashboard](screenshots/Admin-dashboard.png)
 
 ### Plant Management
 ![Plant Management](screenshots/management1.png)
